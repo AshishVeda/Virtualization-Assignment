@@ -4,7 +4,7 @@ Team Members: Satya Ashish Veda and Raviraj Wadnerkar
 
 
 
-# Question 1
+## Question 1
 
 Satya Ashish Veda:
 Created the GCP VM, uploaded the files provided in canvas to GCP, Checked the video tutorial provided to check how to make the c file and added  procbased, procbased2, procbased3 and executed the files to load the object to kernel.
@@ -14,7 +14,7 @@ Raviraj Wadnerkar:
 Gone through the Linux module installation, Collaborated with team member Ashish and modified Entry and Exit controls in the c file
 
 
-# Question 2 
+## Question 2 
 
 Steps to complete the assignment 
 
